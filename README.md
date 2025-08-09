@@ -1,2 +1,16 @@
-# Front-End-Portifolio
-🧑‍💻 Portfólio Pessoal Este repositório contém meu portfólio pessoal desenvolvido com HTML5 e CSS3, com foco em um design responsivo, limpo e moderno. Nele, você encontrará:  📄 Uma apresentação sobre mim  💼 Projetos que desenvolvi ou participei  📫 Informações para contato  🎨 Uma interface construída com atenção à usabilidade e estética
+🧑‍💻 Front-End Portfolio
+This repository contains my personal portfolio developed using HTML5 and CSS3, focusing on a clean, modern, and responsive design.
+
+📄 Overview
+In this portfolio, you will find:
+
+A presentation about myself
+
+Projects I have developed or participated in
+
+Contact information
+
+An interface designed with attention to usability and aesthetics
+
+📄 License
+This project is licensed under the MIT license — feel free to use and modify it.
