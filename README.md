@@ -12,5 +12,9 @@ Contact information
 
 An interface designed with attention to usability and aesthetics
 
+💻 Desktop View
+
+📱 Mobile View
+
 📄 License
 This project is licensed under the MIT license — feel free to use and modify it.
