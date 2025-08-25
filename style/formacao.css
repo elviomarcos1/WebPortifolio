@@ -158,4 +158,8 @@
         position: initial;
         margin-bottom: 10px;
     }
+
+    .faculdade:hover {
+    transform: scale(1.03);
+    }
 }

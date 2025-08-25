@@ -23,6 +23,11 @@
     border-radius: 5px;
     position: relative;
     gap: 10px 20px;
+    transition: transform 0.3s ease;
+}
+
+.empresa:hover {
+    transform: scale(1.1);
 }
 
 .empresa-ano {
@@ -73,6 +78,10 @@
 }
 
 @media(max-width: 950px) {
+        .empresa:hover {
+            transform: scale(1.03);
+        }
+
     .experiencia {
         grid-template-columns: 1fr;
         gap: 40px;
@@ -102,4 +111,8 @@
     .empresa {
         grid-template-columns: 1fr
     } 
+
+    .empresa:hover {
+        transform: scale(1.05);
+    }
 }
