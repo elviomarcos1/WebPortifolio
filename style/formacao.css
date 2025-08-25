@@ -46,6 +46,11 @@
     background: #000000;
     padding: 20px;
     border-radius: 4px;
+    transition: transform 0.3s ease;
+}
+
+.faculdade:hover {
+    transform: scale(1.1);
 }
 
 .faculdade-tipo {
