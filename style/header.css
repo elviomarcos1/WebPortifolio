@@ -27,6 +27,11 @@
     display: block;
 }
 
+.header-menu a:hover {
+    text-decoration: underline;
+    color: #000000;
+}
+
 @media (max-width: 950px) {
     .header {
         flex-direction: column;
