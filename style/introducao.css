@@ -36,7 +36,7 @@
 
 @media (max-width: 1150px) {
     .introducao h1 {
-        font-size: 3rem;
+        font-size: 3.20rem;
     }
 }
 
@@ -44,7 +44,7 @@
     .introducao {
         margin: 0px;
         grid-template-columns: 1fr 1fr;
-        gap: 40px;
+        gap: 0;
     }
    
     .introducao h1 {
@@ -59,6 +59,7 @@
     }
 
     .introducao-img {
+        justify-self: center;
         width: 380px;
         height: 380px;
     }
@@ -88,5 +89,12 @@
     .introducao-img {
         width: 190px;
         height: 190px;
+    }
+}
+
+@media (max-width:375px) {
+    .introducao-img {
+        width: 130px;
+        height: 130px;
     }
 }
